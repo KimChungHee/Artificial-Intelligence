@@ -1,0 +1,13 @@
+# Machine-Learning-Scikit-learn-Auto
+- PyAutoGUI
+- 1. Least Squares Estimation (Scikit-learn LinearRegression, 집값 예측)
+- 2. Least Squares Estimation  (Scikit-learn LinearRegression, 당뇨병 예측)
+- 3. LogisticRegression_sklearn
+- 4. KNN_sklearn
+- 5. K-means_sklearn
+- 6. PCA_sklearn
+- Tuning HyperParams (GridSearch vs RandomSearch vs Hyperopt (+AutoML))
+- Auto-ScikitLearn (vs SVM, WindowsOS 사용 불가)
+- Basic Tutorial for FeatureTools
+- PCA for BreastCancer & Cifar10 
+- Model saving & loading (Scikit-learn)
